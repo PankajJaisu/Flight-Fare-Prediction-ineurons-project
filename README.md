@@ -71,7 +71,7 @@ link : https://drive.google.com/drive/folders/1_DhdjzIO776um5f6qzeYBEsiP2DATLFe?
 
 ## Contact 
 
-**Siddhiraj Kolwankar**
-e-mail   : siddhirajkolwankar11@gmail.com
-LinkedIn : 
+**Pankaj Jaiswal**
+e-mail   : pankajj11222333@gmail.com
+LinkedIn : [https://www.linkedin.com/in/pankajjaiswalbackenddeveloper/](url)
 
